@@ -29,7 +29,7 @@ export default class Details extends Component {
                                id: <span className="text-uppercase">{id}</span>
                            </h4>
                            <h4 className="text-title text-uppercase  mt-3 mb-2">
-                               inCart: <span className="text-uppercase">{inCart}</span>
+                           company: <span className="text-uppercase">{company}</span>
                            </h4>
                            <div>
                                <Link to='/'>
